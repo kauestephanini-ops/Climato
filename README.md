@@ -1,2 +1,0 @@
-# Climato
-Climato clima
